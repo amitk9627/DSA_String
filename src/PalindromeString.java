@@ -6,7 +6,6 @@ public class PalindromeString {
       Solution res =new Solution();
      System.out.print(res.isPalindrome(str));
     }
-
 }
 class Solution{
     boolean isPalindrome(String str) {
